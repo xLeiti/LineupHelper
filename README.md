@@ -2,7 +2,7 @@
 Test flashbangs without going blind.
 
 In cs2 there are two different grenade trajectory previews:
-- a yellow one, which is inaccurat since it stops before the detonation point
+- a yellow one, which is inaccurate since it stops before the detonation point
 - a red one, which is accurate, but comes with the landings spot PIP and fades away very quickly.
 
 This cfg adds an toggle bind which allows the red grenade trajectory preview to stay infinite.
