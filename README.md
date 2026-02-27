@@ -17,5 +17,5 @@ Default bind for the toggle is ```i```
 
 # Note: 
 The flash pops where the line ends, not the dot within the circle!
-The landing spot PIP is broken for all subsequent nades while the LineupHelper is toggled on.
+The landing spot PIP is kinda broken while the LineupHelper is toggled on.
 
