@@ -10,9 +10,12 @@ It can be used to check which spots are affected by flashbangs without going bli
 
 Default bind for the toggle is ```i```
 
-How to use: 
+# How to use: 
 1. search for an lineup
 2. toggle the LineupHelper on before throwing the flash
 3. the red trajectory preview stays until another grenade is thrown or the LineupHelper is toggled off
 
-Note: the flash pops where the line ends, not the dot within the circle!
+# Note: 
+The flash pops where the line ends, not the dot within the circle!
+The landing spot PIP is broken for all subsequent nades while the LineupHelper is toggled on.
+
